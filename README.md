@@ -1,3 +1,3 @@
 # java-project
-Update this file to see AWS CodeBuild builds automatically. IaC class Spring 2025
+Update this file to see AWS CodeBuild builds automatically. IaC class Fall 2025
 
